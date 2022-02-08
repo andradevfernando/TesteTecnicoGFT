@@ -1,0 +1,15 @@
+C:\workspace\TesteGFT\bin\Debug\net6.0\TesteGFT.exe
+C:\workspace\TesteGFT\bin\Debug\net6.0\TesteGFT.deps.json
+C:\workspace\TesteGFT\bin\Debug\net6.0\TesteGFT.runtimeconfig.json
+C:\workspace\TesteGFT\bin\Debug\net6.0\TesteGFT.dll
+C:\workspace\TesteGFT\bin\Debug\net6.0\ref\TesteGFT.dll
+C:\workspace\TesteGFT\bin\Debug\net6.0\TesteGFT.pdb
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.csproj.AssemblyReference.cache
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.AssemblyInfoInputs.cache
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.AssemblyInfo.cs
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.csproj.CoreCompileInputs.cache
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.dll
+C:\workspace\TesteGFT\obj\Debug\net6.0\ref\TesteGFT.dll
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.pdb
+C:\workspace\TesteGFT\obj\Debug\net6.0\TesteGFT.genruntimeconfig.cache
